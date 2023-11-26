@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassData/1.0.0": {
+        "dependencies": {
+          "ClassData.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ClassData.dll": {}
+        }
+      },
+      "ClassData.Domain/1.0.0": {
+        "runtime": {
+          "ClassData.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassData.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
